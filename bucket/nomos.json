@@ -1,16 +1,16 @@
 {
-  "version": "0.12.1",
+  "version": "0.13.0",
   "description": "Zero-trust control plane for AI agent side effects",
   "homepage": "https://github.com/safe-agentic-world/nomos",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.12.1/nomos-windows-amd64.zip",
-      "hash": "6ac39fc4ccae8d2cb7532748852f20a0e07c6567fdd329a3edb468f01fc655ff"
+      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.13.0/nomos-windows-amd64.zip",
+      "hash": "279eb9c7d71d603d79083cde3f0893c3f92ce9c6a1bd0c7421e71cdc217e6a8d"
     },
     "arm64": {
-      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.12.1/nomos-windows-arm64.zip",
-      "hash": "6ed54df3f09630d6f41154c05eea5a69a9bb30accdf1ee83c027561b0a2331ed"
+      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.13.0/nomos-windows-arm64.zip",
+      "hash": "9c2822b34d96765c370714b8ce606ab58479fd143dc55862e099ad29574d2f38"
     }
   },
   "bin": "nomos.exe",
