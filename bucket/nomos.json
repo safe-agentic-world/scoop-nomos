@@ -1,16 +1,16 @@
 {
-  "version": "0.19.0",
-  "description": "Zero-trust control plane for AI agent side effects",
+  "version": "0.19.1",
+  "description": "Deny-wins policy hook for Claude Code and Codex",
   "homepage": "https://github.com/safe-agentic-world/nomos",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.0/nomos-windows-amd64.zip",
-      "hash": "d7aea582686c7afc9ed721bc170c44b6fd3a2cb4c2e63cb7afeedb22c98f11fd"
+      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.1/nomos-windows-amd64.zip",
+      "hash": "cd2cb6953695ed042147e0cc3ae39fcdd632c12961a910416281d6d6bfefc180"
     },
     "arm64": {
-      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.0/nomos-windows-arm64.zip",
-      "hash": "ffa56d5d7ac52799c9bfb478a896ce05c5c22dfd12e33bfe809d5909ea7f6051"
+      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.1/nomos-windows-arm64.zip",
+      "hash": "a1600d5a79d31ef867d2919fe9907824f67e0341e3ac649de6d663f753d3b76f"
     }
   },
   "bin": "nomos.exe",
