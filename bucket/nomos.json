@@ -1,16 +1,16 @@
 {
-  "version": "0.19.2",
+  "version": "0.19.3",
   "description": "Deny-wins policy hook for Claude Code and Codex",
   "homepage": "https://github.com/safe-agentic-world/nomos",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.2/nomos-windows-amd64.zip",
-      "hash": "d8921cdd766511c4797b8e7abd260100de01d526c8166d9c5d4b0dbbaf3c8f5a"
+      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.3/nomos-windows-amd64.zip",
+      "hash": "e18889fe4ae0297d705e6b98c554f5bdf58fbee43fc49cdf97e19449f486ce5b"
     },
     "arm64": {
-      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.2/nomos-windows-arm64.zip",
-      "hash": "2c9cc10417fc7b070fc747b4526f3959d89bfed2440f5b07eab68f24d2039833"
+      "url": "https://github.com/safe-agentic-world/nomos/releases/download/v0.19.3/nomos-windows-arm64.zip",
+      "hash": "8d671dc81c21aa953b11f841f345355e8c7f3f10a7e26b279268125f481df0ad"
     }
   },
   "bin": "nomos.exe",
